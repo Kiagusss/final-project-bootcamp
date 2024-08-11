@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034391955205",
+    "project_id": "final-project-super-boot-e46dc",
+    "storage_bucket": "final-project-super-boot-e46dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034391955205:android:787daf064f7acc9c25396c",
+        "android_client_info": {
+          "package_name": "com.example.final_project_bootcamp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKh-nieLafuZsFlAmXixuzTrjZfIV9n_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
